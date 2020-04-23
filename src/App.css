@@ -5,8 +5,7 @@
 
 .header {
   color: rgb(96, 108, 118);
-  font-size: 18px;
-  font-weight: 100;
+  font-size: 16px;
 }
 
 .search-bar input {
@@ -18,13 +17,18 @@
 }
 
 button {
-  padding: 10px;
-  font-size: 16pt;
+  padding: 10px 15px;
+  font-size: 20px;
   color: white;
   background-color: rgb(155, 77, 202);
 }
 
 .search-result {
-  margin: 10px;
+  margin: 10px 20px;
+}
+
+.search-result a {
+  font-size: 16px;
+  text-decoration: none;
   color: rgb(155, 77, 202);
 }
