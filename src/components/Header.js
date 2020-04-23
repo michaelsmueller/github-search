@@ -3,7 +3,7 @@ import '../App.css';
 
 const Header = (props) => {
   return (
-    <header>
+    <header className='header'>
       <h1>github search</h1>
     </header>
   );

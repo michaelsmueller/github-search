@@ -1,5 +1,30 @@
 .App {
   width: 70vw;
   margin: 20px auto;
-  color: #333;
+}
+
+.header {
+  color: rgb(96, 108, 118);
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.search-bar input {
+  margin-top: 20px;
+  width: 300px;
+  font-size: 20px;
+  padding: 20px 5px;
+  height: 20px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16pt;
+  color: white;
+  background-color: rgb(155, 77, 202);
+}
+
+.search-result {
+  margin: 10px;
+  color: rgb(155, 77, 202);
 }
